@@ -1,8 +1,6 @@
-https://docs.docker.com/engine/swarm/
+https://docs.docker.com/engine/swarm/swarm-mode/
 
-https://docs.docker.com/engine/swarm/key-concepts/
-
-https://docs.docker.com/engine/swarm/how-swarm-mode-works/nodes/
+https://docs.docker.com/engine/swarm/join-nodes/
 
 Complete the setup of a swarm mode cluster with managers and worker nodes
 =========================================================================
