@@ -1,7 +1,5 @@
 https://success.docker.com/Certification
 
-https://docs.docker.com/engine/installation/linux/docker-ce/fedora/
-
 Docker certified associate - study notes
 ========================================
 
