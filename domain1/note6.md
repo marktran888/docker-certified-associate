@@ -4,16 +4,6 @@ https://docs.docker.com/compose/compose-file/
 Convert an application deployment into a stack file using a YAML compose file with "docker stack deploy"
 ========================================================================================================
 
-Stack commands:
-
-```
-docker stack deploy     Deploy a new stack or update an existing stack
-docker stack ls         List stacks
-docker stack ps         List the tasks in the stack
-docker stack rm         Remove one or more stacks
-docker stack services 	List the services in the stack
-```
-
 Create and update a stack from a compose or a dab file on the swarm. This command has to be run targeting a manager node.
 
 The deploy command supports compose file version 3.0 and above.
