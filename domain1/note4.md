@@ -3,7 +3,7 @@ https://docs.docker.com/engine/swarm/swarm-tutorial/deploy-service/
 Extend the instructions to run individual containers into running services under swarm
 ======================================================================================
 
-On the manager node:
+On the manager (manager1) node:
 
 ```
 $ docker service create --replicas 1 --name helloworld alpine ping docker.com
