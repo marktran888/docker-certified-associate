@@ -13,3 +13,4 @@ Domain1: Orchestration 25%
   * [Demonstrate steps to lock a swarm cluster](https://github.com/marktran888/docker-certified-associate/blob/draft/domain1/note3.md)
   * [Extend the instructions to run individual containers into running services under swarm](https://github.com/marktran888/docker-certified-associate/blob/draft/domain1/note4.md)
   * [Interpret the output of "docker inspect" commands](https://github.com/marktran888/docker-certified-associate/blob/draft/domain1/note5.md)
+  * [Convert an application deployment into a stack file using a YAML compose file with "docker stack deploy"](https://github.com/marktran888/docker-certified-associate/blob/draft/domain1/note6.md)
