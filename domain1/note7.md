@@ -67,6 +67,9 @@ The currently supported filters are:
     label (--filter label=key=value)
 ```
 
+Formatting
+==========
+
 The formatting options (--format) pretty-prints services output using a Go template.
 
 Valid placeholders for the Go template are listed below:
