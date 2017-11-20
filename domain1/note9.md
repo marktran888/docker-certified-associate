@@ -57,6 +57,7 @@ When you create a swarm service, you can publish that service’s ports to hosts
 #Publish a service’s ports using the routing mesh
 
 To publish a service’s ports externally to the swarm, use the --publish <TARGET-PORT>:<SERVICE-PORT> flag. The swarm makes the service accessible at the target port on every swarm node. If an external host connects to that port on any swarm node, the routing mesh routes it to a task. The external host does not need to know the IP addresses or internally-used ports of the service tasks to interact with the service. When a user or process connects to a service, any worker node running a service task may respond. For more details about swarm service networking, see Manage swarm service networks.
+
 Example: Run a three-task Nginx service on 10-node swarm
 
 Imagine that you have a 10-node swarm, and you deploy an Nginx service running three tasks on a 10-node swarm:

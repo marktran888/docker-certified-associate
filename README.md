@@ -17,3 +17,8 @@ Domain1: Orchestration 25%
   * [Manipulate a running stack of services](https://github.com/marktran888/docker-certified-associate/blob/draft/domain1/note7.md)
   * [Increase number of replicas](https://github.com/marktran888/docker-certified-associate/blob/draft/domain1/note8.md)
   * [Add networks, publish ports](https://github.com/marktran888/docker-certified-associate/blob/draft/domain1/note9.md)
+  * [Mount volumes](https://github.com/marktran888/docker-certified-associate/blob/draft/domain1/note10.md)
+
+
+
+  * [Misc notes (not part of exam)](https://github.com/marktran888/docker-certified-associate/blob/draft/domain1/note0.md)
