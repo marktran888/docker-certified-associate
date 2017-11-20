@@ -16,3 +16,4 @@ Domain1: Orchestration 25%
   * [Convert an application deployment into a stack file using a YAML compose file with "docker stack deploy"](https://github.com/marktran888/docker-certified-associate/blob/draft/domain1/note6.md)
   * [Manipulate a running stack of services](https://github.com/marktran888/docker-certified-associate/blob/draft/domain1/note7.md)
   * [Increase number of replicas](https://github.com/marktran888/docker-certified-associate/blob/draft/domain1/note8.md)
+  * [Add networks, publish ports](https://github.com/marktran888/docker-certified-associate/blob/draft/domain1/note9.md)
